@@ -50,3 +50,13 @@ Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 <p align="center">
 Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
+
+<br/>
+<br/>
+<p align="center">
+<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-08-18_07-51-12.png" width="800" height="500">
+</p>
+
+<p align="center">
+Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+</p>
