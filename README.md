@@ -38,7 +38,7 @@ Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 <br/>
 <br/>
 <p align="center">
-<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-05-18_00-30-40.png" width="800" height="500">
+<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-07-24_06-38-30.png" width="800" height="500">
 </p>
 
 <br/>
