@@ -16,7 +16,7 @@ My Solidworks training projects
 
 
 <p align="center">
-Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+Watch the <a href="https://youtu.be/EkhWItqzOsok">Video</a> on Youtube
 </p>
 
 <br/>
@@ -32,7 +32,7 @@ Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
 
 <p align="center">
-Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+Watch the <a href="https://youtu.be/n9IAvU-JVQc">Video</a> on Youtube
 </p>
 
 <br/>
@@ -48,7 +48,7 @@ Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
 
 <p align="center">
-Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+Watch the <a href="https://youtu.be/fhYMJO2YYsQ">Video</a> on Youtube
 </p>
 
 <br/>
@@ -64,5 +64,5 @@ Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
 </p>
 
 <p align="center">
-Watch the <a href="https://youtu.be/CAylI00THjk">Video</a> on Youtube
+Watch the <a href="https://youtu.be/D7f3Ik1dDFg">Video</a> on Youtube
 </p>
