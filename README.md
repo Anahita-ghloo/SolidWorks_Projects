@@ -5,7 +5,7 @@ My Solidworks training projects
 <br/>
 <br/>
 <p align="center">
-<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-05-18_00-37-54.png" width="300" height="300">
+<img src= "https://github.com/Anahita-ghloo/SolidWorks_Projects/blob/main/2021-05-18_00-37-54.png" width="800" height="800">
 </p>
 
 <p align="center">
